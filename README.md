@@ -2,7 +2,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/j2u2inxg8dlx6bgd?svg=true)](https://ci.appveyor.com/project/blackseliger/animation-components)
 
 
-GP :rocket: https://blackseliger.github.io/Popovers/ :rocket:
+GP :rocket: https://blackseliger.github.io/animation-components/ :rocket:
 
 **Important!**
 
